@@ -10,3 +10,8 @@
 08-menu (https://javascript-08-menu.netlify.app) <br/>
 09-video (https://javascript-09-video.netlify.app) <br/>
 10-scroll (https://javascript-10-scroll.netlify.app) <br/>
+11-tabs (https://javascript-11-tabs.netlify.app) <br/>
+12-countdown-timer (https://javascript-12-countdown-timer.netlify.app) <br/>
+13-lorem-ipsum (https://javascript-13-lorem-ipsum.netlify.app) <br/>
+14-grocery-bud (https://javascript-14-grocery-bud.netlify.app) <br/>
+15-slider (https://javascript-15-slider.netlify.app) <br/>
