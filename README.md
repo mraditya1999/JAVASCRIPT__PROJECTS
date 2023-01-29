@@ -15,3 +15,8 @@
 13-lorem-ipsum (https://javascript-13-lorem-ipsum.netlify.app) <br/>
 14-grocery-bud (https://javascript-14-grocery-bud.netlify.app) <br/>
 15-slider (https://javascript-15-slider.netlify.app) <br/>
+16-counter (https://javascript-16-counter.netlify.app) <br/>
+17-gallery  (https://javascipt-17-gallery.netlify.app) <br/>
+18-numbers  (https://javascript-18-numbers.netlify.app) <br/>
+19-dark-mode  (https://javascript-19-dark-mode.netlify.app) <br/>
+20-filters  (https://javascript-20-filters.netlify.app) <br/>
