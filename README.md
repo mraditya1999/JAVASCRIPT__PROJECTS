@@ -20,3 +20,16 @@
 18-numbers  (https://javascript-18-numbers.netlify.app) <br/>
 19-dark-mode  (https://javascript-19-dark-mode.netlify.app) <br/>
 20-filters  (https://javascript-20-filters.netlify.app) <br/>
+21-dad-jokes (https://javascript-21-dad-jokes.netlify.app) <br/>
+22-products (https://javascript-22-products.netlify.app) <br/>
+23-random-user  (https://javascript-23-random-user.netlify.app) <br/>
+24-cocktails  (https://javascript-24-cocktails.netlify.app) <br/>
+25-slider (https://javascript-25-slider.netlify.app) <br/>
+26-stripe-submenus  (https://javascript-26-stripe-submenus.netlify.app) <br/>
+27-pagination (https://javascript-27-pagination.netlify.app) <br/>
+28-wikipedia  (https://javascript-28-wikipedia.netlify.app) <br/>
+29-comfy-store  (https://javascript-29-comfy-store.netlify.app)  <br/>
+30-stopwatch  (https://javascript-30-stopwatch.netlify.app) <br/>
+
+
+
