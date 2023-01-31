@@ -43,4 +43,4 @@ function carousel() {
   });
 }
 
-prevBtn.style.display = "none";
+prevBtn.style.display = 'none';
